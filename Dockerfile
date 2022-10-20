@@ -10,4 +10,4 @@ COPY hello.py .
 
 EXPOSE 5000
 
-CMD hello.py
+CMD python hello.py
