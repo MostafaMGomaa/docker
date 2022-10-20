@@ -1,3 +1,3 @@
 # Docker
 
-Playing with dockek
+Playing with docker
